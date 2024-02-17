@@ -6,10 +6,10 @@
 @import "./base/section";
 @import "./base/container";
 
-@import "./components/button";
-@import "./components/logo";
+@import "./layout/header";
+@import "./layout/logo";
+@import "./layout/mobile-menu";
 @import "./components/backdrop";
-@import "./components/modal-window";
+@import "./components/button";
 @import "./components/form-modal";
-
-@import "./layots/header";
+@import "./components/modal-window";
